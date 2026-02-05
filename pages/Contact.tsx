@@ -220,13 +220,12 @@ const Contact: React.FC = () => {
         <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8">
           <div className="bg-slate-50/50 p-6 rounded-2xl border border-slate-100">
             <h4 className="font-black text-slate-900 uppercase tracking-tight text-base mb-3">Direct Office</h4>
-            <p className="text-slate-600 font-bold text-base">(224) 526-5606</p>
+            <p className="text-slate-600 font-bold text-base">(312) 684-3444</p>
           </div>
           <div className="bg-slate-50/50 p-6 rounded-2xl border border-slate-100">
             <h4 className="font-black text-slate-900 uppercase tracking-tight text-base mb-3">Mailing Address</h4>
             <p className="text-slate-600 font-bold leading-relaxed text-sm">
-              3601 W ALGONQUIN RD SUITE 620,<br />
-              ROLLING MEADOWS, IL 60008
+              602 E 10th St, Marshfield, WI 54449
             </p>
           </div>
           <div className="bg-slate-50/50 p-6 rounded-2xl border border-slate-100">
