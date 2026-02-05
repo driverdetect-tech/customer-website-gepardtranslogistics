@@ -1,0 +1,8 @@
+{
+  "name": "Gepard Trans Logistics INC INC",
+  "description": "Premium car hauling and freight solutions specializing in nationwide retail transport.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

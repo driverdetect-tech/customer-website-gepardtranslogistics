@@ -1,1 +1,13 @@
-# customer-website-gepardtranslogistics
+# Customer Website - Gepard Trans Logistics INC
+
+This contains everything you need to run your app locally.
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Run the app:
+   `npm run dev`
